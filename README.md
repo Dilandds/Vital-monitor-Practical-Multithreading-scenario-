@@ -1,6 +1,6 @@
 # Project:Vital-Monitor-System
 
-## About the projcect
+## About the project
 
 This project is based on a real-life scenario. In a hospital, there will be a number of patients whose vitals (things like heart rate, blood pressure, etc.) should be monitored. Each patient would be connected to a vital monitor and these monitors will transmit the vital information over a network to a central location. That way nursing staff will be able to monitor many patients and do it remotely – which is useful when the patients are contagious. 
 
